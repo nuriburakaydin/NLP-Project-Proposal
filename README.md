@@ -16,12 +16,12 @@ Create a Twitter Developer Application to be able to use developer API. (Authent
 
 Setup Twitter API library Tweepy for Python
 
-Fetch tweets for a all users
+Fetch tweets for all users
 
 Clean data (remove hashtags and mentioned users)
 
-First Solution: Process data programmatically for extracting emotions
+First: Process data programmatically for extracting emotions
 
-Second Solution: Train data and create a model for openNLP
+Second: Train data and create a model for openNLP
 
 Test results
