@@ -13,9 +13,15 @@ I am planning to arrange how the people are thinking about the universities on t
 #Steps
 
 Create a Twitter Developer Application to be able to use developer API. (Authentication)
+
 Setup Twitter API library Tweepy for Python
+
 Fetch tweets for a all users
+
 Clean data (remove hashtags and mentioned users)
+
 First Solution: Process data programmatically for extracting emotions
+
 Second Solution: Train data and create a model for openNLP
+
 Test results
